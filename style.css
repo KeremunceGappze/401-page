@@ -31,9 +31,9 @@ body .base h1:before {
     content: "U";
     position: absolute;
     top: -9%;
-    right: 40%;
+    right: 41%;
     transform: rotate(180deg);
-    font-size: 15vw;
+    font-size: 13vw;
     color: #f6c667;
     z-index: -1;
     text-align: center;
